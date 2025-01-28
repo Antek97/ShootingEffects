@@ -1,4 +1,4 @@
-# ue5-GAS-App
+# ue5-GAS-App - Unreal Engine 5.4.4
 Ranged Weapon System
 
 A flexible system for implementing a ranged weapon with multiple ammunition types and damage effects.
